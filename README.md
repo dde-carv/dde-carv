@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duarte</h1>
 
-<h2 align="left">👋 About me:</h2>
+<h2 align="left">☝️ About me:</h2>
 
 ###
 
